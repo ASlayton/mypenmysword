@@ -1,0 +1,36 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+html, body {
+  margin: 0 0 100px;
+  padding: 25px;
+}
+
+body {
+  background-color: #fffacd;
+}
+
+header {
+  background-color: #8b7194;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 150px;
+  width: 100%;
+}
+
+footer {
+  background-color: #8b7194;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.my-name {
+  color: #fffacd;
+}
